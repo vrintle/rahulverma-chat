@@ -1,0 +1,11 @@
+{
+	"name": "site",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "python server.py"
+	},
+	"dependencies": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
